@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@300&family=Marcellus+SC&family=Marhey:wght@600&family=Marko+One&display=swap');
+.typerighter{
+    color:white;
+    font-family: 'Marko One', serif;
+}
+.text-shuvo{
+    font-family: 'Marcellus SC', serif;
+    color: #f89020;
+    font-weight: bold;
+    font-size: 90px;
+}
+.banner{
+    border-radius: 30px;
+}
+.tag{
+    font-family: 'Marcellus SC', serif;
+}
+.tagline{
+    height: 90px;
+    border-radius: 10px 10px 10px 0px;
+}
